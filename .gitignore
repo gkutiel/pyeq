@@ -1,0 +1,8 @@
+*.lock
+*.aux
+*.fdb_latexmk
+*.fls
+*.pdf
+*.tex
+*.txt
+*.xdv
